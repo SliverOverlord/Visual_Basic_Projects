@@ -1,0 +1,30 @@
+Amy lastname
+Phone number
+Email
+Birthday
+Address
+Bill lastname
+Phone number
+Email
+Birthday
+Address
+bob
+ph
+e
+b
+a
+Cindy lastname
+Phone number
+Email
+Birthday
+Address
+Sally lastname
+Phone number
+Email
+Birthday
+Address
+zack
+phone
+em
+b
+a
